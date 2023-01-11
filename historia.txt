@@ -1,3 +1,5 @@
 Hola soy Mauricio Lozano estoy aprendiendo en Platzi Git y Github
 
 Mau tiene 20 años y vive en Monterrey
+
+Hoy hablaremos de su vida
